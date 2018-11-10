@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\PWGEN\PWGEN\bin\Debug\PWGEN.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\PWGEN\PWGEN\obj\Debug\PWGEN.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\PWGEN\PWGEN\obj\Debug\PWGEN.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\PWGEN\PWGEN\obj\Debug\PWGEN.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\PWGEN\PWGEN\bin\Debug\PWGEN.exe
+c:\users\administrator\documents\visual studio 2015\Projects\PWGEN\PWGEN\bin\Debug\PWGEN.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\PWGEN\PWGEN\obj\Debug\PWGEN.exe
+c:\users\administrator\documents\visual studio 2015\Projects\PWGEN\PWGEN\obj\Debug\PWGEN.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\PWGEN\PWGEN\obj\Debug\PWGEN.csprojResolveAssemblyReference.cache
